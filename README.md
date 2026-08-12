@@ -1,4 +1,4 @@
-readme_content = """# Budget Program - Personal Financial Management Application
+# Budget Program - Personal Financial Management Application
 
 A desktop financial management and budgeting application developed in Python with a graphical user interface (Tkinter), SQLite database persistence, Matplotlib visual analytics, Gmail integration, and automated Google Drive cloud synchronization.
 
