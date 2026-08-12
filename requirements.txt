@@ -1,0 +1,5 @@
+Required Libraries to be installed using pip:
+matplotlib
+google-api-python-client
+google-auth
+google-auth-oauthlib
